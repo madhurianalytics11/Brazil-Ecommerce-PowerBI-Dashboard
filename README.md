@@ -1,5 +1,5 @@
 # Brazil E-Commerce Power BI Dashboard
-
+Built using Power BI, DAX, Power Query, SQL, and Python for end-to-end e-commerce business analysis.
 ## Project Overview
 
 This Power BI Dashboard provides comprehensive insights into Brazil's E-Commerce sales, customer behavior, product performance, seller analysis, and logistics operations using the Olist E-Commerce Dataset.
@@ -9,6 +9,8 @@ This Power BI Dashboard provides comprehensive insights into Brazil's E-Commerce
 - Power BI
 - Power Query
 - DAX
+- SQL
+- Python
 - Excel
 
 ## Dashboard Pages
