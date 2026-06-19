@@ -63,7 +63,7 @@ Brazilian E-Commerce Public Dataset by Olist
 ## Dashboard Screenshots
 
 ### Sales Performance
-![Sales Dashboard](p1.png)
+![Sales Dashboard](P1.png)
 
 ### Customer & Product Analysis
 ![Customer Analysis](p2.png)
