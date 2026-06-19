@@ -50,7 +50,10 @@ This Power BI Dashboard provides comprehensive insights into Brazil's E-Commerce
 ## Dataset
 
 Brazilian E-Commerce Public Dataset by Olist
+## Power BI File
 
+Download PBIX File: 
+https://drive.google.com/file/d/1xSVTR44nrTKhIEppNSBEcmHGz_ULGYCt/view?usp=sharing
 ## Key Insights
 
 - Sales exceeded 13.59M.
